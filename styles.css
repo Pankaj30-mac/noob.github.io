@@ -1,0 +1,27 @@
+*{
+	/*margin: 0;*/
+	    cursor:alias;
+	    
+}
+table{
+	padding: 50px 50px 50px 50px
+}
+#Helo {
+	background-color:#2c038f
+	;color: #ffb3b3
+}
+.btn1 {
+	/*color: blue*/
+	    background: #ffa5a5;
+    color: #fd6161;
+    user-select: all;
+}
+.btn2{
+	    background: #ffa5a5;
+    color: #fd6161;
+    user-select: all;
+}
+::selection{
+	background-color:#c8c8ff;
+	color: red
+}
